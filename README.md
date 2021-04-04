@@ -60,6 +60,7 @@ The goal for me as the company/page owner, would be to offer a reliable customer
 I went trough Slack and found similar issues that all reverted back to the source code for the Boutique Ado project, I went and tried the same thing and changing the JS script CDNs 
 made it work. 
 ## 5. Additional Comments.
+> having to end working early (21-04-04) due to scheduled power outage in my appartment complex.  
 ## 6. External Resources.
 > Django allAuth
 ## 7. Testing.
