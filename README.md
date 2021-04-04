@@ -27,6 +27,12 @@ The user goals are quite self explanitary, a potential customer lands on the pag
 The goal for me as the company/page owner, would be to offer a reliable customer service where I sell paint to paying customers, sorting payments and shipping. To create the easiest and most trustworthy experience for the customer.
 
 ## 2. Updates Timeline.
+> **2021-04-04**
+>> Installed Django <br>
+>> Installed allAuth  <br>
+>> Configured allAuth BACKEND's <br>
+>> Set up Superuser<br>
+>> created requirements.txt<br>
 ## 3. Planned Updates.
 |  Update | Finished |
 |---|---|
@@ -42,6 +48,7 @@ The goal for me as the company/page owner, would be to offer a reliable customer
 ## 4. Bugs & Errors.
 ## 5. Additional Comments.
 ## 6. External Resources.
+> Django allAuth
 ## 7. Testing.
 ## 8. Deployment.
 ## 9. Conclusions.
