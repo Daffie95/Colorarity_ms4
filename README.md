@@ -29,10 +29,16 @@ The goal for me as the company/page owner, would be to offer a reliable customer
 ## 2. Updates Timeline.
 > **2021-04-04**
 >> Installed Django <br>
->> Installed allAuth  <br>
->> Configured allAuth BACKEND's <br>
+>> Installed AllAuth  <br>
+>> Configured AllAuth BACKEND's <br>
 >> Set up Superuser<br>
 >> created requirements.txt<br>
+>> created templates using AllAuth templates<br>
+>> created base.html<br>
+>> configured nav in base.html<br>
+>> created static and media folders<br>
+>> created basic CSS for text, buttons, and media querys<br>
+
 ## 3. Planned Updates.
 |  Update | Finished |
 |---|---|
