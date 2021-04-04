@@ -1,45 +1,47 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome USER_NAME,
+# Colorarity
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+Colorarity is a companypage that acts as a wholesale for paint. With fast worldwide delivery and a high variety of colors in spray cans and buckets. 
 
-## Gitpod Reminders
+### Index
+1. Project Planning.
+2. Updates Timeline.
+3. Planned Updates.
+4. Bugs & Errors.
+5. Additional Comments.
+6. External Resources.
+7. Testing.
+8. Deployment.
+9. Conclusion.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
-`python3 -m http.server`
+## 1. Project Planning.
+I have created a wireframe of a model I would like to create. Its intuitive for the user and the focus is on the products we sell. What I want to do differently from the Boutique Ado project where there is eyecatching designs to promote user interactions, I would like to focus on the products colors(which they are) to try and make them look good and eye-catching.<br>
+There is no way bombarding the page with fancy colors and flashy designs when the product I'd sell is actual colors. And there is a need for the products to be seen clearly and not polluted by background colors and/or things that might disturb the view.<br>
+While at the same time I want the page to be interesting and not look like a Windows98 interface, I think this is a case of spartan designs and a easy-on-the-eyes color palette. 
 
-A blue button should appear to click: *Make Public*,
+>> User Goals:
+The user goals are quite self explanitary, a potential customer lands on the page looking for color, perhaps they are painting a fence, a baby chamber, or just like graffiti, who am I to judge. The user will be able to use a search function to find different colors. searching for "red", would bring up all colors with the word red in it (e.g "Sunset Red", "Coca Cola Red", "Tomato Red"). And the same for any other color. 
 
-Another blue button should appear to click: *Open Browser*.
+>> Owner Goals:
+The goal for me as the company/page owner, would be to offer a reliable customer service where I sell paint to paying customers, sorting payments and shipping. To create the easiest and most trustworthy experience for the customer.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: *Make Public*,
-
-Another blue button should appear to click: *Open Browser*.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+## 2. Updates Timeline.
+## 3. Planned Updates.
+|  Update | Finished |
+|---|---|
+| Templates  |  |
+|  Auth  |   |
+|  Products |   |
+| Cart  |   |
+| User feedback  |   |
+| Checkout  |   |
+| User Profile  |   |
+| Admin  |   |
+|   |   |
+## 4. Bugs & Errors.
+## 5. Additional Comments.
+## 6. External Resources.
+## 7. Testing.
+## 8. Deployment.
+## 9. Conclusions.
