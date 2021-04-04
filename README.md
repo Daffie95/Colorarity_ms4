@@ -44,8 +44,15 @@ The goal for me as the company/page owner, would be to offer a reliable customer
 | Checkout  |   |
 | User Profile  |   |
 | Admin  |   |
+|  Design and color |   |
+|   |   |
+|   |   |
+|   |   |
 |   |   |
 ## 4. Bugs & Errors.
+> While working on creating the navigation, I could not get my current bootstrap/JS to actually display the dropdown menu on the page, the link worked but no dropdown would show.
+I went trough Slack and found similar issues that all reverted back to the source code for the Boutique Ado project, I went and tried the same thing and changing the JS script CDNs 
+made it work. 
 ## 5. Additional Comments.
 ## 6. External Resources.
 > Django allAuth
