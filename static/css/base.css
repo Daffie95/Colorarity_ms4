@@ -97,6 +97,11 @@ body {
 	z-index: -1;
 }
 
+a.category-badge > span.badge:hover {
+    background: #212529 !important;
+    color: #fff !important;
+}
+
 /* header text shadow */
 h1.display-4.logo-font {
     text-shadow: 2px 2px #000000;
