@@ -63,14 +63,10 @@ body {
     color: white;
 }
 
-.shop-now-button:hover,
-.shop-now-button:active,
-.shop-now-button:focus,
-.btn-black:hover,
-.btn-black:active,
-.btn-black:focus {
-    background: #222;
-    color: white;
+/* ads effect when hovering */
+.shop-button:hover, .shop-button:active, .shop-button:focus, .btn-black:hover, .btn-black:active, .btn-black:focus {
+    background: #f8f9fa;
+    color: #212529;
 }
 
 /* similar to a bootstrap helper to maintain borders to be black */
@@ -83,6 +79,7 @@ body {
     color: #000 !important;
 }
 
+/* similar to a bootstrap helper to maintain background to be black */
 .bg-black{
     background: #000 !important;
 }
@@ -105,5 +102,17 @@ a.category-badge > span.badge:hover {
 /* header text shadow */
 h1.display-4.logo-font {
     text-shadow: 2px 2px #000000;
+}
+
+.btt-button {
+    height: 42px;
+    width: 42px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+
+.btt-link {
+    cursor: pointer;
 }
 
