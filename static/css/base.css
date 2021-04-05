@@ -65,6 +65,7 @@ body {
 
 /* ads effect when hovering */
 .shop-button:hover, .shop-button:active, .shop-button:focus, .btn-black:hover, .btn-black:active, .btn-black:focus {
+    text-decoration: none;
     background: #f8f9fa;
     color: #212529;
 }
