@@ -74,7 +74,12 @@ made it work.
 > ~~The Products does render the correct template but the injected content is not displayed on screen.~~<br>
 a break in the logo caused layering issues.
 ## 5. Additional Comments.
-> having to end working early (21-04-04) due to scheduled power outage in my appartment complex.  
+> having to end working early (21-04-04) due to scheduled power outage in my appartment complex. <br> <br>
+> **if forloop.counter|divisibleby:X** <br>
+> While this DID take me a good while to figure out, its an amazing feature used in the Boutique Ado project.
+What this does is that there are X numbers of products displayed one each row(which changes on different screen sizes)
+the HR is displayed.
+
 ## 6. External Resources.
 > Django allAuth<br>
 > bootstrap<br>
