@@ -69,6 +69,26 @@ body {
     color: #212529;
 }
 
+.btn-outline-black {
+    background: white;
+    color: black !important; /* use important to override link colors for <a> elements */
+    border: 1px solid black;
+}
+
+.btt-button {
+    height: 42px;
+    width: 42px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+
+.btt-link {
+    cursor: pointer;
+}
+
+
+
 /* similar to a bootstrap helper to maintain borders to be black */
 .border-black {
     border: 1px solid black !important;
@@ -104,15 +124,7 @@ h1.display-4.logo-font {
     text-shadow: 2px 2px #000000;
 }
 
-.btt-button {
-    height: 42px;
-    width: 42px;
-    position: fixed;
-    bottom: 10px;
-    right: 10px;
-}
 
-.btt-link {
-    cursor: pointer;
-}
+
+
 
