@@ -88,6 +88,7 @@ made it work.
 <br>
 > ~~The Products does render the correct template but the injected content is not displayed on screen.~~<br>
 a break in the logo caused layering issues.
+
 ## 5. Additional Comments.
 > having to end working early (21-04-04) due to scheduled power outage in my appartment complex. <br> <br>
 > **if forloop.counter|divisibleby:X** <br>
@@ -102,6 +103,12 @@ I struggled with this for a while but finally made it work after researching bot
 >> GitPod decided to throw me out and currently im trying to patch things back up. 
 >> After throwing me out extentions like Prettier and visual enhancements are not working making it incredibly hard to read anything.
 
+> **remove_from_bag function**
+>> I struggled a lot with trying to recover after GitPod crashing on me and couldnt actually make
+>> this work, I headed over to the source code for the Boutique Ado project, but I will be honest and say that I 
+>> am not 100% sure how this view works, as I am not using sizes in my projects there wont be any conflicts in the actual
+>> funtion as it will always fire the bag.pop instead of finding a size attribute. 
+>> but it is not the way I would have wanted to work it out.
 
 ## 6. External Resources.
 > Django allAuth<br>
