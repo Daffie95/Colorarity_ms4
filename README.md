@@ -53,7 +53,7 @@ The goal for me as the company/page owner, would be to offer a reliable customer
 >> created products page
 >> created detailed products page
 >> created products layout on products.html template
->>
+>> created search function
 
 ## 3. Planned Updates.
 |  Update | Finished |
@@ -68,7 +68,7 @@ The goal for me as the company/page owner, would be to offer a reliable customer
 | Admin  |   |
 |  Design and color |   |
 |  user stories |   |
-|   |   |
+|  searching |  X  |
 |   |   |
 |   |   |
 ## 4. Bugs & Errors.
