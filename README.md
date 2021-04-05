@@ -67,6 +67,7 @@ The goal for me as the company/page owner, would be to offer a reliable customer
 | User Profile  |   |
 | Admin  |   |
 |  Design and color |   |
+| update icons  |   |
 |  user stories |   |
 |  searching |  X  |
 |   |   |
