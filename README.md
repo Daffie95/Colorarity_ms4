@@ -66,6 +66,12 @@ made it work.
 > having to end working early (21-04-04) due to scheduled power outage in my appartment complex.  
 ## 6. External Resources.
 > Django allAuth
+> bootstrap
+> Google Fonts
+> Font awesome
+>> A lot of code used in this project is revamped code from the previous Boutique Ado project, because I feel like there is not really a better way to implement the same code, but in a different way.
+>> The Boutique Ado project suffers greatly from the lack of explanitary measures of WHY and HOW functions work the way they do, knowing what does this and that is great, but the learning outcomes are very slim
+>> and without extensively going trough Django documentation, there really isnt a whole lot to take away from it. 
 ## 7. Testing.
 ## 8. Deployment.
 ## 9. Conclusions.
