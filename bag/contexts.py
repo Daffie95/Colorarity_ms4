@@ -8,7 +8,7 @@ def bag_contents(request):
     total = 0
     product_count = 0
 
-    if total < settings.FREE_SHIPPING_TRESHOLD:
+    if total < settings.FREE_SHIPPING_THRESHOLD:
         shipping = total * Decimal(settings.STANDARD_SHIPPING_PERCENTAGE / 100)
         free_shipping_delta = settings.FREE_SHIPPING_THRESHOLD - total
     else:
