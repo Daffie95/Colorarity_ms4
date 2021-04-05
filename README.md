@@ -96,6 +96,9 @@ the HR is displayed.<br>
 >I tried figuring out this on my own but couldnt make it work reliably and again reverted back to the source code of the Boutique Ado project,
 I struggled with this for a while but finally made it work after researching both the videos and source code extensively.
 
+> **GitPod Error**
+>> GitPod decided to throw me out and currently im trying to patch things back up.
+
 
 ## 6. External Resources.
 > Django allAuth<br>
