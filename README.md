@@ -91,12 +91,14 @@ a break in the logo caused layering issues.
 
 ## 5. Additional Comments.
 > having to end working early (21-04-04) due to scheduled power outage in my appartment complex. <br> <br>
+
 > **if forloop.counter|divisibleby:X** <br>
 > While this DID take me a good while to figure out, its an amazing feature used in the Boutique Ado project.
 What this does is that there are X numbers of products displayed one each row(which changes on different screen sizes)
 the HR is displayed.<br>
+
 > **quant_input_script** <br>
->I tried figuring out this on my own but couldnt make it work reliably and again reverted back to the source code of the Boutique Ado project,
+>>I tried figuring out this on my own but couldnt make it work reliably and again reverted back to the source code of the Boutique Ado project,
 I struggled with this for a while but finally made it work after researching both the videos and source code extensively.
 
 > **GitPod Error**
@@ -112,6 +114,7 @@ I struggled with this for a while but finally made it work after researching bot
 
 ## 6. External Resources.
 > Django allAuth<br>
+> Pillow<br>
 > bootstrap<br>
 > Google Fonts<BR>
 > Font awesome<br>
