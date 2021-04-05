@@ -1,7 +1,7 @@
 
 # Colorarity
 
-Colorarity is a companypage that acts as a wholesale for paint. With fast worldwide delivery and a high variety of colors in spray cans and buckets. This is a project that acts like the Milestone project 4, which is the 
+Colorarity is a companypage that acts as a wholesale for paint. With fast worldwide shipping and a high variety of colors in spray cans and buckets. This is a project that acts like the Milestone project 4, which is the 
 last project in the full stack course hosted by Code Institute. This project focuses on using full stack frameworks, and in this case I will be using Django.
 
 
