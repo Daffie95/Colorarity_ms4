@@ -59,9 +59,11 @@ The goal for me as the company/page owner, would be to offer a reliable customer
 >> created and configured <br>
 >> removed text tecoration on homepage button<br>
 >> formatted README<br>
->> created increment/decrement buttons for quantity selection on products
->> configured incr/decr buttons for quantity on products using JS
->> up to version after GitPod Crash
+>> created increment/decrement buttons for quantity selection on products<br>
+>> configured incr/decr buttons for quantity on products using JS<br>
+>> up to version after GitPod Crash<br>
+>> created remove function to shopping bag<br>
+>> configured remove function to shopping bag<br>
 
 ## 3. Planned Updates.
 |  Update | Finished |
