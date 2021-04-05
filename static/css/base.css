@@ -134,6 +134,14 @@ h1.display-4.logo-font {
     z-index: 999999999;
 }
 
+.custom-toast {
+    overflow: visible;
+}
+
+.toast-capper {
+    height: 4px;
+}
+
 
 
 
