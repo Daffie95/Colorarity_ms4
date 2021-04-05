@@ -41,6 +41,13 @@ The goal for me as the company/page owner, would be to offer a reliable customer
 >> configured nav in base.html<br>
 >> created static and media folders<br>
 >> created basic CSS for text, buttons, and media querys<br>
+> **2021-04-05**
+>> created /Includes for easy access and editing html code<br>
+>> created navigation in /Includes for mobile and larger screens<br>
+>> included navigation in base.html
+>> set up CSS and background image<br>
+>> created a banner on homepage for shipping threshold
+>> updated homepage text
 
 ## 3. Planned Updates.
 |  Update | Finished |
