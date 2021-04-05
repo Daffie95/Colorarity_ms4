@@ -1,7 +1,9 @@
 
 # Colorarity
 
-Colorarity is a companypage that acts as a wholesale for paint. With fast worldwide delivery and a high variety of colors in spray cans and buckets. 
+Colorarity is a companypage that acts as a wholesale for paint. With fast worldwide delivery and a high variety of colors in spray cans and buckets. This is a project that acts like the Milestone project 4, which is the 
+last project in the full stack course hosted by Code Institute. This project focuses on using full stack frameworks, and in this case I will be using Django.
+
 
 ### Index
 1. Project Planning.
@@ -26,6 +28,7 @@ The user goals are quite self explanitary, a potential customer lands on the pag
 >> Owner Goals:
 The goal for me as the company/page owner, would be to offer a reliable customer service where I sell paint to paying customers, sorting payments and shipping. To create the easiest and most trustworthy experience for the customer.
 
+>> User stories:
 ## 2. Updates Timeline.
 > **2021-04-04**
 >> Installed Django <br>
@@ -51,7 +54,7 @@ The goal for me as the company/page owner, would be to offer a reliable customer
 | User Profile  |   |
 | Admin  |   |
 |  Design and color |   |
-|   |   |
+|  user stories |   |
 |   |   |
 |   |   |
 |   |   |
