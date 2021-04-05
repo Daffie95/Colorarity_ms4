@@ -87,6 +87,16 @@ body {
     background: #000 !important;
 }
 
+.overlay {
+	height: 100%;
+	width: 100%;
+	top: 0;
+	left: 0;
+	position: fixed;
+	background: white;
+	z-index: -1;
+}
+
 /* header text shadow */
 h1.display-4.logo-font {
     text-shadow: 2px 2px #000000;
