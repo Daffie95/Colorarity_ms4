@@ -127,6 +127,13 @@ h1.display-4.logo-font {
     text-shadow: 2px 2px #000000;
 }
 
+.message-container {
+    position: fixed;
+    top: 80px;
+    right: 20px;
+    z-index: 999999999;
+}
+
 
 
 
