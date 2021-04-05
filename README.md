@@ -41,19 +41,25 @@ The goal for me as the company/page owner, would be to offer a reliable customer
 >> configured nav in base.html<br>
 >> created static and media folders<br>
 >> created basic CSS for text, buttons, and media querys<br>
-> **2021-04-05**
+
+> **2021-04-05**<br>
 >> created /Includes for easy access and editing html code<br>
 >> created navigation in /Includes for mobile and larger screens<br>
->> included navigation in base.html
+>> included navigation in base.html<br>
 >> set up CSS and background image<br>
->> created a banner on homepage for shipping threshold
->> updated homepage text
->> Created fixtures for products and categories
->> tested database functionality
->> created products page
->> created detailed products page
->> created products layout on products.html template
->> created search function
+>> created a banner on homepage for shipping threshold<br>
+>> updated homepage text<br>
+>> Created fixtures for products and categories<br>
+>> tested database functionality<br>
+>> created products page<br>
+>> created detailed products page<br>
+>> created products layout on products.html template<br>
+>> created search function<br>
+>> created shopping bag function and view<br>
+>> created and configured <br>
+>> removed text tecoration on homepage button<br>
+>> formatted README<br>
+>> created increment/decrement buttons for quantity selection on products
 
 ## 3. Planned Updates.
 |  Update | Finished |
@@ -62,7 +68,7 @@ The goal for me as the company/page owner, would be to offer a reliable customer
 |  Auth  |   |
 |  Products |   |
 | Cart  |   |
-| User feedback  |   |
+| User feedback  |   | 
 | Checkout  |   |
 | User Profile  |   |
 | Admin  |   |
