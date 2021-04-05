@@ -97,7 +97,8 @@ the HR is displayed.<br>
 I struggled with this for a while but finally made it work after researching both the videos and source code extensively.
 
 > **GitPod Error**
->> GitPod decided to throw me out and currently im trying to patch things back up.
+>> GitPod decided to throw me out and currently im trying to patch things back up. 
+>> After throwing me out extentions like Prettier and visual enhancements are not working making it incredibly hard to read anything.
 
 
 ## 6. External Resources.
