@@ -48,6 +48,12 @@ The goal for me as the company/page owner, would be to offer a reliable customer
 >> set up CSS and background image<br>
 >> created a banner on homepage for shipping threshold
 >> updated homepage text
+>> Created fixtures for products and categories
+>> tested database functionality
+>> created products page
+>> created detailed products page
+>> created products layout on products.html template
+>>
 
 ## 3. Planned Updates.
 |  Update | Finished |
