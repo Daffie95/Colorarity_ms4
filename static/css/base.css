@@ -83,6 +83,10 @@ body {
     color: #000 !important;
 }
 
+.bg-black{
+    background: #000 !important;
+}
+
 /* header text shadow */
 h1.display-4.logo-font {
     text-shadow: 2px 2px #000000;
