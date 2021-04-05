@@ -1,1 +1,0 @@
-[{"pk": 1, "model": "products.product", "fields": {"sku": "gg111111", "name": "Basic Red", "description": "Classical Red", "price": 5.99, "category": 1, "image_url": "/workspace/Colorarity_ms4/media/colorarity-placeholder.jpg", "image": "colorarity-placeholder.jpg"}}]
