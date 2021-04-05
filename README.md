@@ -66,9 +66,12 @@ The goal for me as the company/page owner, would be to offer a reliable customer
 |   |   |
 |   |   |
 ## 4. Bugs & Errors.
-> While working on creating the navigation, I could not get my current bootstrap/JS to actually display the dropdown menu on the page, the link worked but no dropdown would show.
+> ~~While working on creating the navigation, I could not get my current bootstrap/JS to actually display the dropdown menu on the page, the link worked but no dropdown would show.
 I went trough Slack and found similar issues that all reverted back to the source code for the Boutique Ado project, I went and tried the same thing and changing the JS script CDNs 
-made it work. 
+made it work.~~ 
+<br>
+<br>
+> The Products does render the correct template but the injected content is not displayed on screen.
 ## 5. Additional Comments.
 > having to end working early (21-04-04) due to scheduled power outage in my appartment complex.  
 ## 6. External Resources.
