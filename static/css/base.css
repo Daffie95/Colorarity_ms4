@@ -26,7 +26,7 @@ html {
 }
 
 body {
-    background: url('/media/colorarity-header.jpg') no-repeat center center fixed;
+    background: url('/media/colorarity-header2.jpg') no-repeat center center fixed;
     background-size: cover;
     height: calc(100vh - 164px);
     color: #555;
@@ -83,4 +83,8 @@ body {
     color: #000 !important;
 }
 
+/* header text shadow */
+h1.display-4.logo-font {
+    text-shadow: 2px 2px #000000;
+}
 
