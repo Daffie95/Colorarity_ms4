@@ -91,16 +91,24 @@ a break in the logo caused layering issues.
 > **if forloop.counter|divisibleby:X** <br>
 > While this DID take me a good while to figure out, its an amazing feature used in the Boutique Ado project.
 What this does is that there are X numbers of products displayed one each row(which changes on different screen sizes)
-the HR is displayed.
+the HR is displayed.<br>
+> **quant_input_script** <br>
+>I tried figuring out this on my own but couldnt make it work reliably and again reverted back to the source code of the Boutique Ado project,
+I struggled with this for a while but finally made it work after researching both the videos and source code extensively.
+
 
 ## 6. External Resources.
 > Django allAuth<br>
 > bootstrap<br>
 > Google Fonts<BR>
 > Font awesome<br>
->> A lot of code used in this project is revamped code from the previous Boutique Ado project, because I feel like there is not really a better way to implement the same code, but in a different way.
+>>  
+>>A lot of code used in this project is revamped code from the previous Boutique Ado project, because I feel like there is not really a better way to implement the same code, but in a different way.
 >> The Boutique Ado project suffers greatly from the lack of explanitary measures of WHY and HOW functions work the way they do, knowing what does this and that is great, but the learning outcomes are very slim
->> and without extensively going trough Django documentation, there really isnt a whole lot to take away from it. 
+>> and without extensively going trough Django documentation, there really isnt a whole lot to take away from it. <br>
+>> 
+
+
 ## 7. Testing.
 ## 8. Deployment.
 ## 9. Conclusions.
