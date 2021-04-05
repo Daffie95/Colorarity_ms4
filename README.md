@@ -60,6 +60,8 @@ The goal for me as the company/page owner, would be to offer a reliable customer
 >> removed text tecoration on homepage button<br>
 >> formatted README<br>
 >> created increment/decrement buttons for quantity selection on products
+>> configured incr/decr buttons for quantity on products using JS
+>> up to version after GitPod Crash
 
 ## 3. Planned Updates.
 |  Update | Finished |
