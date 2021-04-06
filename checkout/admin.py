@@ -4,7 +4,16 @@ from .models import Order, OrderLineItem
 # Register your models here.
 
 
+class OrderLineItemAdminInline(admin.TabularInline):
+    """
+    Allows admin editing in the lineItem interface
+    """
+    model = OrderLineItem
+    readonly_fields = ('lineitem_total',)
+
+
 class OrderAdmin(admin.ModelAdmin):
+    inlines = (OrderLineItemAdminInline,)
     """
     configure adming fields for checkout model
     """
