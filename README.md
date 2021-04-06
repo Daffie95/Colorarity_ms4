@@ -84,6 +84,10 @@ The goal for me as the company/page owner, would be to offer a reliable customer
 >> created checkout JS<br>
 >> created stripe_elements.JS for stripe visibility<br>
 >> added stripe keys to context<br>
+>> added bag_contents to bag contexts<br>
+>> configured stripe keys<br>
+>> configured submit handler<br>
+
 
 
 ## 3. Planned Updates.
