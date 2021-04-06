@@ -1,4 +1,11 @@
 
+# This is not a finished project, I was greedy with the time I had and did not expect getting stuck on the problems I did. 
+### As I know that this project will not pass I will submit this to meet the deadline, and fork it towards a new repository and continue working on the project.<br>
+### Im gauging that the project will be complete midweek (on the 7th or the 8th). I appologize for the inconvinience. 
+<br>
+To test this I imagine you'd be running gitpod thus requiring secret keys. So there will be no preview of the page as the layouts are mostly there.
+
+
 # Colorarity
 
 Colorarity is a companypage that acts as a wholesale for paint. With fast worldwide shipping and a high variety of colors in spray cans and buckets. This is a project that acts like the Milestone project 4, which is the 
@@ -89,6 +96,9 @@ The goal for me as the company/page owner, would be to offer a reliable customer
 >> configured submit handler<br>
 >> testing stripe Auth error<br>
 >> fixed stripe auth error in GitPod env virables<br>
+>> tested stripe functionality and confirmed its working in the dashboard<br>
+>> ***submitting project for deadline (read header part of README)***
+
 
 
 
