@@ -64,6 +64,10 @@ The goal for me as the company/page owner, would be to offer a reliable customer
 >> up to version after GitPod Crash<br>
 >> created remove function to shopping bag<br>
 >> configured remove function to shopping bag<br>
+>> created toasts<br>
+>> configured toasts <br>
+
+> **2021-04-06**
 
 ## 3. Planned Updates.
 |  Update | Finished |
