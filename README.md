@@ -138,6 +138,10 @@ I struggled with this for a while but finally made it work after researching bot
 >> funtion as it will always fire the bag.pop instead of finding a size attribute. 
 >> but it is not the way I would have wanted to work it out.
 
+> **Stripe AUTH error**
+>> ~~I was having problems with authorizing stripe using my secret keys, I tried using the GitPod Env Variables but couldnt get it to work.~~<br> I changed 
+>> the targeted Repos and made sure correct capitalization was used.
+
 ## 6. External Resources.
 > Django allAuth<br>
 > Pillow<br>
