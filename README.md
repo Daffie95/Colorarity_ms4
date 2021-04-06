@@ -80,6 +80,10 @@ The goal for me as the company/page owner, would be to offer a reliable customer
 >> installed crispy_forms<br>
 >> updated requirements.txt<br>
 >> configured builtins to templates<br>
+>> created checkout css<br>
+>> created checkout JS<br>
+>> created stripe_elements.JS for stripe visibility<br>
+>> added stripe keys to context<br>
 
 
 ## 3. Planned Updates.
