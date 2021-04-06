@@ -87,6 +87,8 @@ The goal for me as the company/page owner, would be to offer a reliable customer
 >> added bag_contents to bag contexts<br>
 >> configured stripe keys<br>
 >> configured submit handler<br>
+>> testing stripe Auth error<br>
+>> fixed stripe auth error in GitPod env virables<br>
 
 
 
