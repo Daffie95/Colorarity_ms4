@@ -12,7 +12,7 @@ class OrderForm(forms.ModelForm):
 
     def __init__(self, *args, **kwargs):
         """
-        customize init to add placeholders 
+        customize init to add placeholders
         and remove auto generated labels
         """
         super().__init__(*args, **kwargs)
