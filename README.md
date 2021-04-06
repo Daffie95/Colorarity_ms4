@@ -64,12 +64,19 @@ The goal for me as the company/page owner, would be to offer a reliable customer
 >> up to version after GitPod Crash<br>
 >> created remove function to shopping bag<br>
 >> configured remove function to shopping bag<br>
->> created toasts<br>
->> configured toasts <br>
->> styled toasts using CSS-trix 
->> configured toasts messages on success, update, and remove items from shopping bag.
+
+
 
 > **2021-04-06**
+>> configured toasts messages on success, update, and remove items from shopping bag.<br>
+>> created toasts<br>
+>> configured toasts <br>
+>> styled toasts using CSS-trix <br>
+>> configured checkout forms<br>
+>> configured checkouts signals.py<br>
+>> configured checkouts models.py<br>
+>> configured checkouts views.py<br>
+>> configured checkouts urls.py<br>
 
 ## 3. Planned Updates.
 |  Update | Finished |
