@@ -77,6 +77,10 @@ The goal for me as the company/page owner, would be to offer a reliable customer
 >> configured checkouts models.py<br>
 >> configured checkouts views.py<br>
 >> configured checkouts urls.py<br>
+>> installed crispy_forms<br>
+>> updated requirements.txt<br>
+>> configured builtins to templates<br>
+
 
 ## 3. Planned Updates.
 |  Update | Finished |
@@ -129,6 +133,7 @@ I struggled with this for a while but finally made it work after researching bot
 ## 6. External Resources.
 > Django allAuth<br>
 > Pillow<br>
+> crispy_forms
 > bootstrap<br>
 > Google Fonts<BR>
 > Font awesome<br>
