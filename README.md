@@ -83,16 +83,15 @@ The goal for me as the company/page owner, would be to offer a reliable customer
 |---|---|
 | Templates  |  |
 |  Auth  |   |
-|  Products |   |
-| Cart  |   |
-| User feedback  |   | 
+|  Products |  Yes |
+| Cart  |  Yes |
+| User feedback  | Yes(Toasts) | 
 | Checkout  |   |
 | User Profile  |   |
 | Admin  |   |
 |  Design and color |   |
-| update icons  |   |
 |  user stories |   |
-|  searching |  X  |
+|  searching |  Yes  |
 |   |   |
 |   |   |
 ## 4. Bugs & Errors.
@@ -133,8 +132,8 @@ I struggled with this for a while but finally made it work after researching bot
 > bootstrap<br>
 > Google Fonts<BR>
 > Font awesome<br>
-> CSS-trix (base.css line 145)
->>  
+> CSS-trix (base.css line 145)<br>
+> Boutique Ado Mini-project Soruce Code<br>
 >>A lot of code used in this project is revamped code from the previous Boutique Ado project, because I feel like there is not really a better way to implement the same code, but in a different way.
 >> The Boutique Ado project suffers greatly from the lack of explanitary measures of WHY and HOW functions work the way they do, knowing what does this and that is great, but the learning outcomes are very slim
 >> and without extensively going trough Django documentation, there really isnt a whole lot to take away from it. <br>
