@@ -66,6 +66,8 @@ The goal for me as the company/page owner, would be to offer a reliable customer
 >> configured remove function to shopping bag<br>
 >> created toasts<br>
 >> configured toasts <br>
+>> styled toasts using CSS-trix 
+>> configured toasts messages on success, update, and remove items from shopping bag.
 
 > **2021-04-06**
 
@@ -124,6 +126,7 @@ I struggled with this for a while but finally made it work after researching bot
 > bootstrap<br>
 > Google Fonts<BR>
 > Font awesome<br>
+> CSS-trix (base.css line 145)
 >>  
 >>A lot of code used in this project is revamped code from the previous Boutique Ado project, because I feel like there is not really a better way to implement the same code, but in a different way.
 >> The Boutique Ado project suffers greatly from the lack of explanitary measures of WHY and HOW functions work the way they do, knowing what does this and that is great, but the learning outcomes are very slim
